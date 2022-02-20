@@ -343,6 +343,7 @@ header{
 }
 .activitys__cards-container__article-size__card-link:hover{
     background-color: #DEEBFF;
+    border-radius: 30px;
 }
 .card-activity{
     box-shadow: 0px 1px 10px #999;
