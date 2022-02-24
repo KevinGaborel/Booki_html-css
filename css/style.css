@@ -405,6 +405,10 @@ footer h3{
     #lodging-popular-container{
         flex-direction: column-reverse;
     }
+    #popular, #lodging{
+        margin: 40px 0;
+        padding: 20px 20px 40px 20px;
+    }
     .lodging-popular__cards-container__card__main h3, .popular__cards-container__card__main h3{
         font-size: 25px;
     }
